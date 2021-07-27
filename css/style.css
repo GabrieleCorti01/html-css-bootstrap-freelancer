@@ -1,18 +1,34 @@
 
 #container-start-bootstrap{
     background-color: mediumturquoise;
-    height: 400px;
-    margin-bottom: 150px;
+}
+
+#container-start-bootstrap{
+    color: white;
+}
+
+#container-start-bootstrap h1{
+    font-weight: 600;
+}
+
+.linea-bianca{
+    height: 5px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.linea-nera{
+    height: 5px;
+    background-color: black;
+    border-radius: 20px;
 }
 
 #container-portfolio{
     margin-bottom: 100px;
 }
 
-#box-portfolio div{
-    background-color: mediumvioletred;
-    height: 300px;
-    border: 10px solid white;
+#box-portfolio img{
+border-radius: 5%;
 }
 
 #container-about{
@@ -33,6 +49,11 @@
     height: 100px;
     background-color: indigo;
 
+}
+
+#paragrafi-about{
+    height: 200px;
+    background-color: black;
 }
 
 h1,h2{
