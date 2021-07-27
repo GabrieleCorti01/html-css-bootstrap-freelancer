@@ -23,6 +23,16 @@
     border-radius: 20px;
 }
 
+.btn-download{
+    border-color: white;
+    color: white;
+}
+
+.btn-send{
+    background-color: mediumturquoise;
+    border-color: mediumturquoise;
+}
+
 #container-portfolio{
     margin-bottom: 100px;
 }
@@ -33,29 +43,31 @@ border-radius: 5%;
 
 #container-about{
     background-color: mediumturquoise;
-    height: 450px;
+    color: white;
 }
 
 #container-contact{
-    height: 500px;
+    
 }
 
 #container-footer{
-    background-color: darkslateblue;
-    height: 200px;
+    background-color: rgba(58,84,109,255);
+    color: white;
 }
 
 #copyrigth-footer{
-    height: 100px;
-    background-color: indigo;
-
+    color: white;
+    background-color: rgba(44,62,80,255);
 }
 
-#paragrafi-about{
-    height: 200px;
-    background-color: black;
+#contenitore-icone-social i{
+    border: 1px solid white;
+    border-radius: 100%;
+    padding: 15px;
+    font-size: 1.2em;
 }
 
-h1,h2{
-    text-align: center;
+p > span{
+     color: mediumturquoise;
 }
+
