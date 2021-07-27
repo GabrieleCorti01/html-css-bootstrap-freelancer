@@ -46,10 +46,6 @@ border-radius: 5%;
     color: white;
 }
 
-#container-contact{
-    
-}
-
 #container-footer{
     background-color: rgba(58,84,109,255);
     color: white;
@@ -60,11 +56,11 @@ border-radius: 5%;
     background-color: rgba(44,62,80,255);
 }
 
-#contenitore-icone-social i{
+#container-footer i{
     border: 1px solid white;
-    border-radius: 100%;
-    padding: 15px;
+    border-radius: 50%;
     font-size: 1.2em;
+    padding: 15px;
 }
 
 p > span{
